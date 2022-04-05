@@ -49,6 +49,9 @@ export default function Home() {
     <div className="bg-[url('https://images.unsplash.com/photo-1503951914875-452162b0f3f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80')] bg-no-repeat bg-cover bg-center h-screen z-10 flex justify-center items-center">
       <div className="z-30 max-w-[500px]">
         <Image src={"/img/logo.png"} alt="logo" height={300} width={300} />
+        <p className="text-yellow-400 text-center">
+          (Website Under construction)
+        </p>
         <div className="text-white font-bold text-4xl text-center">
           Coming Soon!!!
         </div>

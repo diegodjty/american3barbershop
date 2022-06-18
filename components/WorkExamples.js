@@ -7,7 +7,7 @@ const WorkExamples = () => {
       <WorkExample img={'/img/example1.png'} />
       <WorkExample img={'/img/example2.png'} />
       <WorkExample img={'/img/example3.png'} />
-      <WorkExample img={'/img/ourWork/1.jpg'} />
+      <WorkExample img={'/img/ourWork/2 (46).jpeg'} />
     </div>
   );
 };
